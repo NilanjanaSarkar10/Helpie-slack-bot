@@ -1,0 +1,1721 @@
+===== CONTENT FROM ADD_PM.docx =====
+
+Introduction Quality check is a process which upholds the quality of the
+report which is presented to the customer or client. Being in the team,
+the process here will be very simple and complicated at the same time,
+one has to pay attention to details and should not allow any sort of
+errors or mistakes in the reports. Before we get started, one should
+know 2 important things in the process
+
+Consent letter A consent letter is one of the must-have documents in the
+portal. As background verification (BGV) is a serious business and deals
+with the data of the candidate, we would need a signed consent letter
+for processing any sort of data provided by the candidate. View consent
+will be present in the top-right corner of the portal in line with
+candidate details. Make sure, whenever you QC a case or get a Customer
+Support/Success request, you see that the case has a consent letter
+present on the portal
+
+Go through the attached letter to have a clear idea.
+
+Package Text/Order Summary
+
+Package Text/Order Summary provides information about the checks
+included in the package that the client has opted for. Package
+Text/Order Summary shows the required checks which are to be
+added/presented in the report. Order Summary will be mentioned in the
+top-right corner of the portal in line with candidate details While
+doing QC, make sure you are checking the checks according to what is
+mentioned in the Order summary
+
+Points to remember In some checks, additional information about their
+expected behavior will be mentioned below the checks name Example: For
+Address check and Court check - It is mentioned that we have to run them
+on Candidate’s permanent address, hence we have to check if it is
+correctly processed as per the information Checklist SVIN QC -
+Checklist - Refer to the QC checklist whenever you are doing QC, keep
+this sheet pinned in one of the tabs on your browser 
+
+Comments Sheet SVIN Check Grading Templates - Refer to this sheet to
+cross-check the comments in the report 
+
+Additional point:  For the cases with name changes where we raise
+insufficiency for Name change deed, We mandatorily need name change deed
+as a proof. This is also called Gazette Notification/Certificate in some
+states. If it’s not available, client can provide an approval to
+consider it without the proof.
+
+Name Variation Thread: Whenever there is a name change, we will request
+the candidate to provide one ID with the previous name and one with the
+new name along with the name change deed. If the candidate cannot
+provide these documents, we will seek client approval. To proceed with
+these types of scenario cases, we require either the complete set of ID
+documents along with the name change deed, or an approval email from the
+client to proceed with the updated name. The case of ‘Ishan’
+vs. ‘Ishaan’ is not considered a name change but a spelling discrepancy
+in the documents. In such cases, the candidate must get the documents
+corrected. The name should match the ID proof and be provided
+accordingly by the company’s HR. In this scenario, we can take a written
+clarification from the candidate and seek client approval to proceed.
+Based on the client’s confirmation, we can process the case. However,
+for actual name changes for example like below scenarios, where the
+candidate has legally changed their name, we must collect one ID with
+the previous name, one with the new name, and the name change deed. If
+the candidate cannot provide these documents, we will request client
+approval before proceeding. Ex: - Shivam Vs Ankit Abdul Vs Rahul Renuka
+Singh Vs Renuka Tripati Shalini Devi Vs Shalini Thomas
+
+Name variation scenarios: -
+
+Step to perform QC: 1. Access QC Options Click on the three-dot menu (⋮)
+next to the item you wish to review.
+
+A dropdown menu will appear with the following options:
+
+Mark QC as Done
+
+Add to Report
+
+Other related actions
+
+2.  Mark QC as Done From the dropdown menu, select “Mark QC as Done.”
+
+3.  Add to Report After marking the QC as done, you will be prompted
+    with an option to “Add to Report.”
+
+Click on “Add to Report” to include the item in the final report.
+
+Address Check We run address verification to validate the address of the
+candidate. There are 2 types of addresses - [i] Permanent Address. [ii]
+Current Address There are 2 types of address checks - [i] Digital (DAV)
+[ii] Physical (PAV)
+
+While doing QC for Address checks, make sure the Address type is
+matching the type in the Order Summary . 
+
+In address verification, a valid document having address proof matching
+the form address will be the primary requirement.
+
+Documents considered for Address verification(for DAV&PAV) are the
+Aadhaar card Driving License Voter ID Passport Vehicle Registration
+Certificate Passport Utility Bill (Should be dated within 3 months)
+Rental Agreement (Should not be expired) Lease Agreement (Should not be
+expired) Sales deed Ration Card Bank Statement (Should have an
+authorized seal & sign) PG Receipt(Should have an authorized seal &
+sign)
+
+These documents can be accepted if they are in the name of the
+Candidate’s blood relatives, we shall need a relationship-supporting
+document(proof) in such cases.
+
+Digital Address Verification
+
+In digital address verification(DAV), we request the candidate to verify
+the address provided by asking them to provide the required images to
+complete the verification. In DAV, we would need the following: Verifier
+image Verifier ID images House door/gate image and house building image
+(Either a door/gate image with house number/name or complete building
+image is sufficient) GPS Annexure (address should be mentioned in GPS
+annexure and Location circles should overlap each other)
+
+The address mentioned in Data Provided should match the address
+mentioned in the provided document (Original document) DAV can be
+completed the candidates their self or by any of the candidate’s blood
+relatives on behalf of them (Tenants, In-Laws & Extended family can also
+be considered)
+
+Format: Details(Data Provided & Data Found) 1. The address mentioned in
+DP should match the address in document 2. The document should be in the
+Candidate’s name or in the name of the Candidate’s blood relatives, we
+shall need a relationship-supporting document(proof) in such cases. 3.
+There should not be any typographical errors in any part of the report
+(Abbreviations should be mentioned in all caps) 4. Residence Type and
+Period of stay should be mentioned
+
+Document: 1. The original document should match the address mentioned in
+the Data provided 2. Mentioned data should be in the correct
+typographical order 3. We should have an image(selfie) of the person who
+is doing the DAV 4. Identity proof or Address proof  of the person
+verifying the address is required. 5. A proper house image should be
+attached (Either a door/gate image with house number/name or a complete
+building image is sufficient) 6. House under construction needs
+clarification from the candidate and comments should also be mentioned
+for the same  If it is partially under construction and if the candidate
+or family stays at the same address then  we’ll add the comment and
+grade the check as verified. .  If complete house looks under
+construction and candidates confirms that they  stay at the same address
+then also also we’ll add the comment and  grade the check as verified.
+If complete house looks under construction and nobody stays at the
+address  we’ll grade the check as Inconclusion.
+
+7.  House image which is captured at night - if they are not clear we
+    can not accept it
+8.  GPS annexure should have the mentioned address location circles
+    should overlap one another
+9.  No device-to-device captured images are accepted
+
+Details(Verification Details) 1. Verification details should be
+correctly mentioned (DIGITAL) 2. Document type should be correctly
+mentioned 3. Verifier details(name and relationship) should be correctly
+mentioned 4. Google Maps should denote the mentioned address 5.
+Requested & Completed dates should be correctly mentioned(crosscheck the
+chronology as the dates are manually added)
+
+Comments: Under certain circumstances where there are some minor changes
+in the address or the house number and when the complete house image can
+not be captured from the candidate’s end, we accept such cases with
+additional comments in the report. Make sure the comments are mentioned
+as per the template Please refer to Address Comments Templates Doc for
+reference.ṁ
+
+When we have the above-mentioned data, images & documents as per the
+procedure, we can pass QC.
+
+Note: For Medics International Lifesciences Ltd. we can proceed without
+an address match as per the document
+
+Cross-check if the name as per HR and the name mentioned in the check
+are matching, if not, check if there are any comments for the same in ID
+checks. If the comments are not mentioned for variation in name as per
+HR and the respected check, flag an error for the person who has changed
+the Overall status from Form Submitted to In Progress
+
+Errors These should be posted in sv-in-ops-qc-errors channel
+
+1.  If the address is not mentioned as presenting the document
+2.  If there are any typos in the report (including punctuation)
+3.  If the Residence Type and period of stay are not mentioned
+4.  If the document is not in the correct format
+5.  If the document is not in the candidate’s name and no supporting
+    document is found
+6.  If there are any documents missing from the above-mentioned format
+7.  If the verification type is incorrect
+8.  If the document type is incorrect
+9.  If the verifier details are incorrect
+10. If the requested and completed dates are incorrect
+11. If there is a mismatch of address in the GPS document / if the
+    location circles are not overlapping
+12. If there are any duplicate data mentioned in the report
+13. If the comments are not mentioned as per the template
+14. If there are any device-to-device captured images
+15. If the identification number of the verifier (relative) is not
+    masked.
+16. If the house image is captured at night and if 
+
+Note: If package text says that “To proceeds without address document”.
+we can proceed without an address match as per the original document
+
+International ADC 
+
+ADC must be raised for all international contact numbers, irrespective
+of the address, only when a call follow-up is required. For cases with
+an international address and international contact number, the check can
+be reviewed and initiated directly without raising ADC, provided no call
+follow-up is done. If the candidate completes the verification within 3
+days for such graded checks and no calling is required, QC should not
+flag an error for non-raising of ADC charges. If the candidate does not
+complete verification within 2 days and a call follow-up is required, an
+ADC must be raised and approved.
+
+Physical Address Verification Physical verification (PAV) happens when a
+field agent visits the vicinity to process the verification on behalf of
+the candidate. We have vendors to run PAV for Address verification There
+will be one or two verified documents apart from the original documents
+in the report. The verified documents will be of the house image
+captured by the field agent, it will consist of watermarks denoting the
+latitude and longitude of the area
+
+In PAV, the QC check format will remain mostly the same with some
+additional checks 1. Residence Type and Period of stay will not be
+verified 2. Vendor information must be masked in the verified documents
+3. Details(in DP, DF & Verification) should be checked as per DAV format
+4. House image and  GPS is updated.  5. Verifier’s Image and ID proof
+image are updated (Optional).
+
+When we have the above-mentioned data, images & documents as per the
+procedure, we can pass QC.
+
+Cross-check if the name as per HR and the name mentioned in the check
+are matching, if not, check if there are any comments for the same in ID
+checks. If the comments are not mentioned for variation in name as per
+HR and the respected check, flag an error for the person who has changed
+the Overall status from Form Submitted to In Progress Errors Vendor
+information has to be masked - Priority All errors followed in DAV
+should be followed in PAV
+
+Note: If package text says that “To proceeds without address document”
+we can proceed without an address match as per the original document
+
+Check Statuses -If the check is initiated and the candidate confirms
+that they are no longer associated with the address, the check will be
+marked as Discrepant.
+
+When the candidate informs that the address provided belongs to them but
+they can not avail verification, the check will be marked as Unable to
+verify
+
+There are a couple of scenarios when an Address check will be marked
+Insuff Closed [i] When there are insufficient documents to run an
+Address check [ii] When the candidate does not respond to verification
+requests
+
+The address check will be marked as Closed, only when there is a client
+request
+
+Important: There are certain scenarios where the check will be marked as
+Discrepant and Unable to verify Please refer to the SVIN Check Grading
+Templates  to have the detailed information
+
+Important Information Regarding Physical Address Verification  
+
+While doing the QC of physical address verification, it is important to
+check the Data Provided and the Data Found location to see if the
+location is nearby or not.
+
+The process to check the details: 1. Open Google Maps
+
+2.  Copy the landmark or keywords of the data provided address and
+    search the location in Google Maps (if not, then try to search with
+    the pin code mentioned)
+
+3.  Copy the latitude and longitude from the Data Found section and
+    search the distance between both locations.
+
+4.  If the distance is within (or approx.) 1 km, this means Google
+    location is captured fine
+
+Reference:
+https://admin.in.springverify.com/candidate/details?id=135653&company_id=127
+
+5.  If there is a difference, then raise an error or clarification on
+    the concerned team.
+
+Reference:
+https://admin.in.springverify.com/candidate/details?id=139957&company_id=316
+
+Special Scenarios:  Sometimes it is captured as more than 1 km, then it
+is acceptable 
+
+Sometimes, the address is not traceable; find out by using keywords or
+Pincode
+
+If name board image is captured,which match’ s with the candidate’s
+address, we can consider. 
+
+===== CONTENT FROM Education_PM.docx =====
+
+Education: Education check QC Process manual  In the Education check, we
+run a background verification for the education details mentioned by the
+candidate as per the client’s requirements. There are 3 types of
+Education verifications  [1] Regional Partner Verification  [2] Official
+Verification [3] Hybrid Verification 
+
+The core concept: In this check, we collect documents from the candidate
+and validate them (via the above-mentioned verification types) with
+universities/governing bodies to run the verification. Documents being
+processed and University/Governing bodies are the major parameters to be
+valued here.
+
+Documents: As mentioned above, documents are one of the important
+subjects in this check  Only the below-mentioned documents are eligible
+to be considered  -Degree certificate -Consolidated mark sheet
+-Provisional mark sheet -Degree certificate + all semester mark sheet 
+-Final semester mark sheet having all semester marks/grade information
+[A consolidated mark sheet is a document which contains detailed marks
+obtained by the student in all semesters (all semester subject-wise
+marks/CGPA/grade) In the Final semester mark sheet with previous
+semester mark sheets, we will see detailed marks obtained for the final
+semester (subject-wise) and only the total mark/CGPA/grade of other
+semesters will be mentioned. Other semester marks will not be detailed
+in terms of the subject in this case]
+
+These documents should be from the university or institution, hence make
+sure the seal and signatures are present in a clear format 
+
+The below documents are not eligible to be considered -Only the final
+semester mark sheet -Course completion certificate -Image of documents
+overlapping each other 
+
+Primary Data Details like- Institute name, Candidate name, Course name,
+Attendance type, Specialization, University name, Identification Number
+& Course duration must be captured as per the document. Any variations
+need to be flagged as an error  The final score can not be kept blank,
+if the details are not provided details denoting that the candidate has
+PASSED the course needs to be mentioned  Verification Details  -Document
+type should be as per the documents attached in the Original Document
+link -Verifier Name should be mentioned as per the verification
+received, if not available Name not enclosed has to be mentioned
+-Designation has to be as per the verifier details mentioned in the
+confirmation -Verification Type: If it is Regional Partner
+Verification - Physical                                   If it is
+Official Verification - Postal/ Electronic depending on the mode of
+confirmation received                                   If it is Hybrid
+Verification - Initially Postal. After getting official confirmation it
+should be Postal/ Electronic -The source should be as per the
+confirmation received -Requested Date & Completed Date should be in the
+correct chronological order -Comments have to be as per the templates
+mentioned in SVIN - The grading template sheet  -Affiliation comment
+needs to be correctly updated along with the affiliation annexure 
+Affiliations Affiliations are one of the important areas to check in
+Education check. This informs about the governing bodies of the
+Institute in which the candidate has completed the education Here are a
+few affiliation bodies (i) University Grant Commission - UGC (ii) All
+India Council for Technical Education - AICTE (iii) Council of Boards of
+School Education in India - COBSE (iv) Ministry of Education - MOE, etc.
+
+Additional notes: 
+
+If we have both Register number and roll number in document, In Data
+provided -  Any one of the number can be considered depending on what
+candidate has filled in BGV form and as per the document. In Data
+Found - If verifier has verified any one of the number which is not
+mentioned in data provided, an additional comment will be added for the
+same. Example - Roll number is mentioned in Data provided. Verifier has
+confirmed Register number, Check field status will be N/A and an
+additional comment should be added for the same.
+
+(i) University Grant Commission - UGC This governs most of the
+    non-technical education institutes which offer courses like
+    Bachelors of Commerce, Bachelors of Arts, Bachelors of Engineering,
+    Bachelors of Science etc, most Universities come under this
+    commission. Please find the Consolidated list of All
+    Universities.pdf. This list includes all the universities that are
+    governed by UGC Refer to https://ugc.ac.in/ for more information
+    Annexure format:
+
+(ii) All India Council for Technical Education - AICTE This governs the
+     institutes that provide technical education like Diploma, MBA, and
+     PGD courses etc. Please find the AICTE portal to check the
+     institute details - Select the state name > mention the institute
+     name Once the institute is found > click on course details to
+     cross-check the course offered Refer to
+     https://www.aicte-india.org/ for more information Annexure format:
+
+(iii) Council of Boards of School Education in India - COBSE This
+      governs the pre-university school boards which offer 10th and 12th
+      education (SSLC & PUC) Please find the COBSE portal to check the
+      board details Refer to https://www.cobse.org.in/ for more
+      information Annexure format:
+
+(iv) Ministry of Education - MOE This governs all the educational
+     governing bodies that are functioning in India, this affiliates
+     institutes like IITs and IIMs etc, which are not under UGC/AICTE
+     kind of governing bodies Please find the MoE portal link to check
+     the institutes Refer to https://www.education.gov.in/en for more
+     info Annexure format:
+
+Non-affiliated Education checks For certain certificate/professional
+courses, we do not check for affiliation in the above-mentioned bodies
+Few professional courses will be governed by Government of India or
+State governments Ex: Chartered Accountant Few certificates course will
+not be affiliated to any governing bodies. Ex: Polytechnic Diploma
+courses. Post Graduation Diploma in Embedded Systems Design Note: Proper
+research has to be done on non-affiliated education check
+
+Note: All affiliation annexures should have the URL link visible in them
+
+Discrepant Education Check due to affiliation issue: Off-shore courses
+are not recognized. The University is recognized to offer courses only
+within the State. In this case, the study center is in Maharashtra. This
+is unapproved. Hence, the check was graded as Discrepant.
+
+Types of Verification  Regional Partner Verification In this mode of
+verification, we will send the document to our regional partners and
+they will help us get the documents verified by the university.
+Verification type in the report will be marked as Physical Here a Degree
+certificate or a document containing most details will be sent to the
+regional partners and the same will be authenticated by the university
+with a seal and signature. This document will be called a verified
+document. Only details mentioned in the verified document will be marked
+as verified in the report The university name in the document and the
+seal in the verifier should be an exact match
+
+Any mid-semester mark sheets are not eligible for verification Any
+couple of documents which are overlapping each other are not eligible
+for verification *Cropped/incomplete documents are not eligible for
+verification Example case
+
+Note: If the verification type is Physical, we can run electronic
+verification as well, if we are getting the details verified from the
+University verification portal, Verification link in comment is
+mandatory Example case Official Verification In this mode of
+verification, we will be directly getting the verification from the
+university There are 2 types of Official Verification (i) Electronic
+(ii) Postal
+
+Here we will be using Electronic electronic modes to get the
+verification from the University via Emails and University Result
+Portals. Emails: Only the details asked and confirmed in the
+verification emails should be marked as verified in the Report Verifier
+name and designation should be as per the verification received *Email
+subject should be addressed to the candidate 
+
+Name change process update: Whenever there is a name change, we will
+request the candidate to provide one ID with the previous name and one
+with the new name along with the name change deed. If the candidate
+cannot provide these documents, we will seek client approval. To proceed
+with these types of scenario cases, we require either the complete set
+of ID documents along with the name change deed, or an approval email
+from the client to proceed with the updated name. The case of ‘Ishan’
+vs. ‘Ishaan’ is not considered a name change but a spelling discrepancy
+in the documents. In such cases, the candidate must get the documents
+corrected. The name should match the ID proof and be provided
+accordingly by the company’s HR. In this scenario, we can take a written
+clarification from the candidate and seek client approval to proceed.
+Based on the client’s confirmation, we can process the case. However,
+for actual name changes for example like below scenarios, where the
+candidate has legally changed their name, we must collect one ID with
+the previous name, one with the new name, and the name change deed. If
+the candidate cannot provide these documents, we will request client
+approval before proceeding. Ex: - Shivam Vs Ankit Abdul Vs Rahul Renuka
+Singh Vs Renuka Tripati Shalini Devi Vs Shalini Thomas
+
+For the cases with name changes where we raise insufficiency for Name
+change deed, We mandatorily need name change deed as a proof. This is
+also called Gazette Notification/Certificate in some states. If it’s not
+available, client can provide an approval to consider it without the
+proof. Name variation scenarios: -
+
+===== CONTENT FROM EMP_PM.docx =====
+
+QC Process Manual for MISC checks Checks Includes: ID, CRT, WCK, CIBIL,
+Drug, Social Media, etc and CST checks
+
+Introduction:- Quality check is a process which upholds the quality of
+the report which is presented to the customer or client. Being in the
+team, the process here will be very simple and complicated at the same
+time, one has to pay attention to details and should not allow any sort
+of errors or mistakes in the reports.
+
+Before we get started, one should know 2 important things in the process
+
+Consent Letter: A consent letter is one of the must-have documents in
+the portal. As background verification (BGV) is a serious business and
+deals with the data of the candidate, we would need a signed consent
+letter for processing any sort of data provided by the candidate.
+Consent will be present in the QC view - left corner of the portal in
+line with candidate details. Make sure, whenever you QC a case or get a
+Customer Support/Success request, you see that the case has a consent
+letter present on the portal
+
+Consent format:
+
+Note: Undertaking are also acceptable. Few of the client approve
+undertaking letter.  For eg: Sai Life Science Limited
+(https://admin.in.springverify.com/companies/1202/candidates/204810)
+
+Package Text/ Order Summary: Package Text/Order Summary provides
+information about the checks included in the package that the client has
+opted for. Package Text/Order Summary shows the required checks which
+are to be added/presented in the report. Order Summary will be mentioned
+in the QC view - Left corner of the portal in line with candidate
+details While doing QC, make sure you are checking the checks according
+to what is mentioned in the Order summary
+
+Package text is mentioned in the top left corner above overview details
+:
+
+Points to remember:  In some checks, additional information about their
+expected behavior will be mentioned below the checks name Example: For
+Address check and Court check - It is mentioned that we have to run them
+on Candidate’s permanent address, hence we have to check if it is
+correctly processed as per the information
+
+Checklist SVIN QC - Checklist - Refer to the QC checklist whenever you
+are doing QC, keep this sheet pinned in one of the tabs on your browser 
+
+Comments Sheet SVIN Check Grading Templates - Refer to this sheet to
+cross-check the comments in the report 
+
+Additional point: Name change process update: Whenever there is a name
+change, we will request the candidate to provide one ID with the
+previous name and one with the new name along with the name change deed.
+If the candidate cannot provide these documents, we will seek client
+approval. To proceed with these types of scenario cases, we require
+either the complete set of ID documents along with the name change deed,
+or an approval email from the client to proceed with the updated name.
+The case of ‘Ishan’ vs. ‘Ishaan’ is not considered a name change but a
+spelling discrepancy in the documents. In such cases, the candidate must
+get the documents corrected. The name should match the ID proof and be
+provided accordingly by the company’s HR. In this scenario, we can take
+a written clarification from the candidate and seek client approval to
+proceed. Based on the client’s confirmation, we can process the case.
+However, for actual name changes for example like below scenarios, where
+the candidate has legally changed their name, we must collect one ID
+with the previous name, one with the new name, and the name change deed.
+If the candidate cannot provide these documents, we will request client
+approval before proceeding. Ex: - Shivam Vs Ankit Abdul Vs Rahul Renuka
+Singh Vs Renuka Tripati Shalini Devi Vs Shalini Thomas
+
+For the cases with name changes where we raise insufficiency for Name
+change deed, We mandatorily need name change deed as a proof. This is
+also called Gazette Notification/Certificate in some states. If it’s not
+available, client can provide an approval to consider it without the
+proof. Name variation scenarios: -
+
+Identity Check In this check, we check the candidate’s Identity bases on
+different - different ID proof. We check the below ID Proof of the
+candidate PAN Aadhaar Voter ID Driving License Passport How to do ID
+checks: In the Identity checks report, we will have the Identity card
+number, Candidate name, date of birth and candidate’s father’s name as
+per the Identity card proof, we have to check if the data mentioned in
+the report matches the with the attached document(which will be the
+identity card proof) and the ID card number, Father’s name and date of
+birth have to be as per the document. Candidate name will sometimes
+slightly vary, in such cases, we should check for name variation
+automated comments  mentioning the variation in the candidate’s name. 
+Automated comment for name variation will be mentioned in the Internal
+report 1st page after the verification Summary section 
+
+Steps: -Open the candidates profile in the SpringVerify portal
+
+-Read the popups which are present above the candidate name - This helps
+you to know in advance about the variations
+
+Go to the internal report and click on the check icon to land on the
+check page report
+
+Open the document from the document section or in split document will be
+opened side by side and check if the details are matching ID Number,
+Date of birth and father’s name should be exactly mentioned as per the
+If there is a variation in the candidate’s name - Automated comment for
+name variation will be mentioned in the Internal report 1st page after
+the verification Summary section Also check for verification type - it
+should be electronics only  Check for requested date and completed date
+and it should be in chronological order. Also check for correct document
+tagging. 
+
+If a candidate has changed his/her name, there should be an additional
+comment of the name as per the Gazette document
+
+Allowable variations - These can be accepted without comments or changes
+
+If the first name and second names are interchanged If there is an
+extra/less space between names or initials If Father’s name is not
+available - The data Provided column can be blank If PAN says that the
+candidate is Minor If the first and second names are combined  If
+everything is correctly matching without any error then we can pass the
+QC.
+
+Important Note: 
+
+For ID Checks Auto-Graded :If the ID Check is auto-graded by the system,
+and the ID document appears blurred or the details are not clearly
+visible, the team will not raise an insufficiency. In such cases, we can
+proceed with the given document.
+
+For the cases with name changes where we raise insufficiency for Name
+change deed, We mandatorily need name change deed as a proof. This is
+also called Gazette Notification/Certificate in some states. If it’s not
+available, client can provide an approval to consider it without the
+proof.
+
+For all ID checks that are being run manually, the team need to take a
+screenshot of the search conducted on the government portal and attach
+it in the report in PDF, JPEG, or GIF format.
+
+All passport checks run through the MRZ method; the details need to be
+added to a Word document, which should then be converted to a PDF. The
+same PDF document needs to be attached in the report
+
+Only international passports have to be done through the MRZ method.
+Indian passport should be run through the Indian passport portal.
+
+For DL and Indian Passport, Date of Birth should be verified. Please
+flag this if its not marked as verified.
+
+For the PAN (ID check), if the check is auto completed by SV or if the
+payload message is available in the data found, We can Pass the QC and
+not required to raise an error for clear documents. For Aadhar only
+Aadhar Number will be marked as verified, rest all info will be N/A. For
+PAN: PAN number and name will be marked as verified For DL, Indian
+passport , Voter ID: Search result will be attached and details will be
+graded as per that.  For eg:  Driving licence - ID number, name, DOB and
+sometimes father’s name will also be graded.  Indian Pasport - DOB will
+also be marked as verified  Voter ID - Only ID number and name will be
+verified  Errors:
+
+These errors  should be posted in sv-in-ops-qc-errors channel :- If any
+data mentioned is not as per the documents If the document is of some
+other candidate If the document is not cropped and aligned in a proper
+format If there are any sort of typographical errors If any details are
+not filled in (DOB/father’s name) If the mother’s name is mentioned
+instead of the father’s name If the Gazette document comments are
+missing If there is a document duplication If there are automated
+comments in the check 
+
+Automated comment example: Unable to Verify ID check: 
+
+Identity checks are marked Unable to Verify in two scenarios [i] When we
+are unable to validate the details mentioned in the ID document (Invalid
+Voter ID number) [ii] When no data is found on the API search
+
+Please find the below example case which is Unable to verify  Example
+case 1
+
+The check will be marked as Insuff closed when there are insufficient
+documents to run the ID check.
+
+The Identity check will be marked as Closed, only when there is a client
+request Discrepant ID check: Identity checks are marked Discrepant when
+there is a mismatch of the Candidate’s name in the API search
+
+Please find the below example case of Identity Verification Discrepancy 
+
+International Passport Check How to validate the International passport
+using Machine Readable Zone (MRZ) validation method?
+
+What is a Machine Readable Zone (MRZ)?
+
+MRZ code is a string of characters that appears on the bottom of the
+personal data page of a passport. It is a combination of letters,
+numbers, and symbols that are arranged in two lines.
+
+The MRZ consists of 2 lines × 44 characters. (Please refer the
+highlighted section on the passport)
+
+Understanding how to run the International passport using Machine
+Readable Zone (MRZ) validation method with an example.
+
+Please note that this is applicable only for passports and no other IDs.
+
+Capture Passport MRZ Data: MRZ1:
+P<KENNYAUNDI<<AMOS<NGISA<<<<<<<<<<<<<<<<<<<<
+
+P stands for Passport Kennyaundi- Last name Amos Ngisa - Given name
+
+MRZ2: AK10084683KEN9804108M320214835025281<<<<<<64
+
+AK1008468- Passport number 3- filler number KEN- Country code 980410=
+10th April 1998 which matches with DOB 8- filler number M- Male 3-
+filler number 320214- 14th Feb 2032- passport expiry date 835025281-
+filler number
+
+Decode MRZ Data:  MRZ1 usually contains information about the Surname,
+Given Names, Country, and Gender information.
+
+MRZ2 typically contains information about the passport number/ID number,
+country details, birth date, and expiry date information.
+
+Compare Extracted Data: Compare the extracted data with the
+corresponding fields on the passport. Ensure that the surname, given
+names, country details, gender, birth date, expiry date, and passport
+number match between the extracted data and the passport.
+
+Validate Passport:  If all the extracted data matches the corresponding
+fields on the passport, we can grade the check as verified.
+
+Note : We will add a disclaimer stating “This passport has been checked
+via MRZ validation” to indicate the method used for verification.
+
+Grading comments : 
+
+Format to be used under the comments sections when checks are completed.
+
+Here’s the extracted information from the response: - Surname: NYAUNDI -
+Given Names: AMOS NGISA - Gender: M - Country: KEN (Kenya) - Birth Date:
+1998-04-10 - Expiry Date: 2032-02-14 - ID Number: AK1008468 - Issuance
+Date: 2022-02-15
+
+And here are the MRZ1 and MRZ2 values: - MRZ1:
+“P<KENNYAUNDI<<AMOS<NGISA<<<<<<<<<<<<<<<<<<<<” - MRZ2:
+“AK10084683KEN9804108M320214835025281<<<<<<64”
+
+Comparing the extracted information with the MRZ data: - MRZ1 contains
+Surname, Given Names, Country, and Gender information, which matches the
+extracted data. - MRZ2 contains ID Number, Country, Birth Date, and
+Expiry Date information, which also matches the extracted data.
+
+Therefore, based on the JSON response, the passport data seems to be
+valid.
+
+Disclaimer: This passport has been checked via MRZ validation.
+
+Reference - 1.
+https://admin.in.springverify.com/candidate/details?id=134574&company_id=566
+2.
+https://admin.in.springverify.com/candidate/details?id=116607&company_id=2487
+3.
+https://admin.in.springverify.com/candidate/details?id=146727&company_id=3108
+
+COURT Check: We run court checks to search the criminal records of the
+candidate.
+
+The court check team will gather the data from the candidate and
+initiate the case to one of our vendors to get the records checked and
+close the check accordingly   For a check to be graded  as Verified
+ there 3 scenarios  1. If we find no online records found based on
+search criteria 2. If we find a partial match, the case type is
+minor(Civil) and we don’t have a valid data match. 3. If the candidate
+provides an authorized letter [PCC document] from the Police department
+stating that there are no court records found on the candidate 
+
+Note: For Medics International Lifesciences Ltd. we can proceed without
+an address match as per the document Documents considered for Address
+proof for CRT check are the Aadhaar card Driving License Voter ID
+Passport Vehicle Registration Certificate Passport Utility Bill (Should
+be dated within 3 months) Rental Agreement (Should not be expired) Lease
+Agreement (Should not be expired) Sales deed Ration Card Bank Statement
+(Should have an authorized seal & sign) PG Receipt(Should have an
+authorized seal & sign)
+
+These documents can be accepted if they are in the name of the
+Candidate’s blood relatives, we shall need a relationship-supporting
+document(proof) in such cases.
+
+Cross check if the name as per HR and name mentioned in the check is
+matching, if not, check there will be automated comment mentioned in 1st
+page of internal report after the verification summary.
+
+Things to check in Court check 1. The address in Data Provided should be
+matching with the Documents attached 2. Comments should be as per
+comments template 3. Check the Requested date and Completed date should
+be correctly mentioned 4. Document tagging should be correctly mentioned
+5. If there is a variation in name as per the Address document,
+automated comment will be present for that. 6. The document should be
+cropped and aligned in the correct way 7. The address should be
+mentioned in the correct format typographically 
+
+Points to be noted for Possible match cases: CNR Number should be
+updated in the comment section Confirmation PDF should be masked and
+flatten. The header for “Disclaimers and limitations of liability”  it
+will be present by End of the CRT check report. The disclaimer should be
+updated for possible matching cases, irrespective of the grading matrix
+(UTV/RED/Green).
+
+Petitioner and Respondent  A person who files a complaint against a
+person or an entity is known as a petitioner. A person on whom a
+complaint is filed on is know as Respondent
+
+Errors 1. If there is a mismatch in address mentioned in the document
+and in data provided 2. If there is a missing document 3. If the
+comments are not captured as per the template 4. If the attached
+document is expired (refer document format under Address check) 5. If
+Requested or completed dates are missing 6. If law letterhead is missing
+(as per package text)
+
+Law firm Letterhead
+
+We have certain clients for whom we have to add a law-firm letterhead
+annexure in the court check along with the normal procedure. Info to
+check for Letterhead will be mentioned in the Order summary/Package
+text. Make sure you have the letterhead annexure in the report and check
+if the report is of the candidate and no court records are found against
+the candidate’s data
+
+Letterhead annexure 
+
+Client List: Law Firm Letterhead Neev Systems Private Limited SBNA
+Software Solutions Private Limited Integrichain M Solution Speegile
+Furthersysytmes Midland Microfin Limited Further Systems Private Limited
+i2e Consulting Private Limited Resolvit Management and Technology
+Consulting India Private Limited Torrins Anthem Private Limited 40K
+Education Private Limited Aspire Fintech Private Limited Alleima India
+Private Limited
+
+SOP for Client AXA XL: Detailed descriptions of the case should not be
+included in the report or the comment section. The CNR Number should be
+updated in the comment section. The confirmation PDF should be masked
+and flattened. FIR details should be masked. The header for “Disclaimers
+and limitations of liability” in the comment section should be formatted
+in bold. The disclaimer should be updated for possible matching cases,
+irrespective of the grading matrix (UTV/RED/Green). Do not include the
+description of the section under which the person is booked. (Example:
+If a person is booked under IPC 420, the report may state that the
+person is booked under IPC 420, but the description of IPC 420 should
+not be included). The report format remains the same. Vendor details
+must be masked along with hyperlinks to the vendor portal and eCourt
+portal. The following are the sections where hyperlinks are included in
+the report: On top of the report under the archived version of the case
+Case History section History of Case Hearing FIR Details Final
+Orders/Judgments Main information sections Police Clearance Certificate 
+When we find particle matches of the candidate’s info, at times the
+candidate will come back stating that he/she has no criminal records. To
+support the claim, the candidate will provide a Police clearance
+certificate.
+
+Attached below is an example of Police clearance certificate
+
+Things to note: We will update the comments in Court check regarding the
+PCC, make sure PCC is updated in a fullform as Police Clearance
+Certificate and not in short form as PCC
+
+Check Statuses: Scenarios - If candidate is petitioner  What is Bail
+Application case? If a person believes they may be arrested for a crime
+they are accused of, they can apply for a bail order in advance to avoid
+being taken into custody. Bail application cases are register under
+CRPC438,439 which has been now changed to 482 and 483 of Bharatiya
+Nagarik Suraksha Sanhita, 2023 Scenario 1: Bail Application Case → 
+Condition 1: Complete Match
+
+If the candidate is petitioner and the name and address is completely
+matching with the petitioner record, we can mark the check as
+“Discrepant”
+
+✅ QC Grade: Discrepant
+
+Condition 2: Partial Match
+
+If the candidate is petitioner and the name and address is partially
+matching with the petitioner record, we can mark the check as “Unable to
+Verify”
+
+✅ QC Grade: UTV (Unable to Verify)
+
+Scenario 2: Not a Bail Application Case For non-bail application case
+check will be graded as “Verified”.
+
+✅ QC Grade: Verified
+
+-   When we find a partial match, the case type is major(Criminal) and
+    we don’t have a valid data match the check will go as Unable To
+    Verify  
+
+-   If a complete match is found between the data and the source
+    document, and the case type is classified as a major case (such as a
+    Criminal or Civil case) that falls under the Red Category, the check
+    must be graded as Discrepant.
+
+-   The check will be marked as Insuff closed when there are
+    insufficient documents to run the Court check.
+
+-   The Court check will be marked as Closed, only when there is a
+    client request
+
+World Check(WCK)
+
+World Check is done to cross check records (terrorist attack,
+laundering, corruption or any other records internationally) of the
+candidate on a global level.  Check package text for the case before
+starting WCK QC. There are a few clients that request a database list to
+be attached along with the case report. World: : Attach the database
+list. World Check (Attach the Database) Client: Bangalore Aircraft
+Industries Private Limited World Check - List of Keywords
+https://admin.in.springverify.com/candidate/document?uuid=6ab8edea-3139-433d-b62b-19d9695651df
+
+Completed Green - World Check A World Check report, when marked as
+Verified, has the header “Case Report”. World Check: Example Case The
+following details are mentioned under DP: Name  Father’s Name Date of
+Birth Address The following is to be mentioned under “Details”:
+Verification Type - Electronic Source - LSEG Requested Date Completed
+Date The following document is to be attached under “Documents”:
+Verified Document - This document has the LSEG report for World Check.
+The following details should be checked in the report -  Name - 
+Candidate name should be an exact match as per DP in the internal
+report. A slight variation in name is acceptable as long as we are sure
+that it represents the same candidate. Date of Birth - should match the
+date of birth in DP (hence, PAN). Vendor Details - should be MASKED in
+white. Hence, vendor details shouldn’t be visible at all. Vendor details
+are mentioned below Case ID and at the footer of each page. Verified
+Document - If in case, candidate ID is not added under Identity Check,
+then, ID proof is attached under World Check. Any ID is sufficient to
+run World Check
+
+Insuff Closed - World Check World Check will go as Insuff - Closed when
+we have insufficient documents to run the check and when the candidate
+or client do not respond after multiple follow ups.
+
+Closed - World Check World Check will go as Closed when there is a
+client request for the same.
+
+UTV - World Check World Check will go as UTV when we are unable to
+validate the details mentioned.
+
+Discrepant - World Check A World Check report, when marked as
+Discrepant, has the header “World Check Match Details Report”. World
+Check will go as Discrepant when there is a finding in the LSEG report
+where the name and DOB is an exact match.
+
+Verified WCK example
+
+Cibil Check/Credit Check:
+
+-> Process update for CIBIL Check: Name, Father’s Name, DOB, or Gender
+Variations:- If there are variations in any of these fields, the check
+would be graded as Verified. No Credit History / Score = -1, the check
+would be grading as Verified. Low Credit Score (≤300): if the credit
+score is 300 or below, the check would be graded as Discrepant.
+
+Cibil Check is done to know the Cibil Score (Credit Score) of the
+candidate.  CIBIL Score is a three-digit numeric summary of the
+candidate’s credit history. The score is derived using the credit
+history found in the CIBIL Report (also known as CIR i.e Credit
+Information Report). A CIR is an individual’s credit payment history
+across loan types and credit institutions over a period of time. Cibil
+Check cannot be run without PAN number as all our financial records are
+linked to PAN number.
+
+Completed Verified  - Cibil Check Example Case: Green Cibil Check The
+following details are mentioned under DP: Name  PAN Number Date of Birth
+The following is to be mentioned under “Details”: CIBIL TRANSUNION SCORE
+Version 2.0 - The score in the internal report should be an exact match
+of the Transunion Report Requested Date Completed Date Comments, if any
+The following document is to be attached under “Documents”: Verified
+Document - This document has the Transunion Cibil report for Cibil
+Check. The following details should be checked in the report -  Name - 
+Candidate name under consumer information should be an exact match to DP
+in the internal report.  A slight variation in name is acceptable as
+long as we are sure that it represents the same candidate. The Identity
+Check section (Data Found) can be checked for the same. Comment will be
+mentioned for the variation, even if the difference is minor(e.g., the
+addition of a middle name, initial, or slight spelling difference). 
+
+Few name variation Example: 1. Case link . As per DP (wrt PAN)  name is
+“Lakshmi Chikkerur” As per CIBIL report name is “Lakshmi K Chikkerur”
+that will be updated in DF and based on this variation comment will be
+captured for this.
+
+2.  Case Link . As per DP (wrt PAN)  name is “Pradeep Latha Vijayendran”
+    As per CIBIL report name is “Pradeep L V V” that will be updated in
+    DF and based on this variation comment will be captured for this.
+
+Date of Birth - should match the date of birth in DP (hence, PAN).
+Vendor Details - should be MASKED in white. Hence, vendor details
+shouldn’t be visible at all. Only PAN is accepted for Cibil Check and it
+is mandatory to be attached in the Cibil check. . For DP and DF 
+variation captured in terms of name and DOB, comment will be captured. 
+
+Cibil Scores: Below  ≤300 - Low Cibil Score - the check is to go as
+discrepant. Above 300 - Acceptable Cibil Score - check will be graded as
+Verified  If the candidate is not in CIBIL Database or if the loan
+history is older than 36 months, then the Cibil Score will be -1. . 
+comment as per the SVIN Check Grading Templates will be given for the
+same. Example Case: Cibil Score -1
+
+Insuff Closed - Cibil Check Cibil Check will go as Insuff - Closed when
+we have insufficient documents to run the check and when the candidate
+or client do not respond after multiple follow ups.
+
+Closed - Cibil Check Cibil Check will go as Closed when there is a
+client request for the same. Example Case: Closed Cibil Check
+
+UTV - Cibil Check Cibil Check will go as UTV when we are unable to
+validate the details mentioned.
+
+Discrepant - Cibil Check Cibil Check will go as Discrepant when:  Low
+Credit Score (≤300): if the credit score is 300 or below, the check
+would be graded as Discrepant. Mismatch of the candidate’s PAN number
+from TransUnion CIBIL report, check would be graded as Discrepant
+
+Drug Check: 
+
+A pre-employment drug testing program for background investigation helps
+protect employers from hiring drug users, before they can have any
+impact on the workplace. It is done to find if the candidate has a habit
+of regular consumption of drugs. The result should be found negative for
+verified check otherwise for positive case it will go as discrepant. Why
+are drug tests important at the workplace ? Drug users are more prone to
+accidents To improve worker safety and health To avoid workplace hazards
+Prevent employee theft and absenteeism Drugs hamper employee
+productivity Drug users are a big threat to organizations dealing with
+sensitive data Drugs Tested in the 5-Panel Test Drug panel-5 uses urine
+as the sample to test for the presence of commonly abused drugs
+substances: marijuana, cocaine, opiates, amphetamines, and Phencyclidine
+(PCP). Commercial names for opiates include Codeine, Morphine, and
+Heroin (6 AM). Methamphetamine and MDMA are common amphetamines, and
+street names include Meth, Molly, Extract, and M. PCP is often referred
+to as angel dust or rocket fuel. Cut off Levels (Urine)
+
+Completed Green Negative results indicate absence of drug in urine or
+concentrations below the assay cutoff .   Example: Completed Green Drug
+Check
+
+Completed Discrepant case Positive results indicate presence of drugs in
+urine or concentrations above the assay cutoff. Example : Completed Red
+Drug Check 
+
+Custom Check: 
+
+Resume validation Checks: A resume verification process involves
+fact-checking the information on a CV, it is a procedure through which
+the features of the information provided by the applicant in both the
+Resume and Profile Background Form are corroborated and the legitimacy
+of the information is authenticated and determined. 
+
+Importance of a CV Validation CV Validation can help prevent bad
+recruits by validating the candidate’s work experience and education
+before making a hiring decision. Many companies provide a resume to
+offer compensation packages, promotions and job responsibilities.
+However, many job applicants and employees provide fake details,
+education and employment history to appear more qualified to grab
+successful jobs. Offering benefits to an unqualified individual based on
+exaggerated CVs could waste time, money and efforts on training besides
+falsely affecting a company’s productivity and increased turnover rate.
+CV frauds such as the exaggeration of skills, false experience are some
+reasons that involve CV verification. CV validation is also important to
+detect resume frauds such as claiming to have been employed by companies
+they never worked for. The major areas where CV frauds were detected
+were in the areas of employment verification along with address
+verification, reference screening, and education. Resume Validation -
+Green When the details of the candidate matches with the verification
+done, the check is graded as verifed.
+
+Social Media Checks A Social Media Background Check is a thorough
+examination of a person’s social media history, looking for negative
+behaviors that may be indicated by posts, likes or comments. This may
+help give employers an indication of the personality or character of
+potential employees. These negative behaviors include bullying, racism,
+extremist religious or political views, excessive foul language and
+more. In addition to analyzing a person’s social media accounts, a
+Social Media Background Check also looks into associations or groups to
+which they may be affiliated. Someone may post infrequently and have a
+relatively clean posting history, but this may only tell part of a
+story. If they are members of a group or frequently liked pages
+associated with problematic content or ideas, such as supremacist or
+fundamentalist groups, this may indicate a number of factors that could
+influence a job offer.  
+
+Why are social media background checks important? Conducting social
+media checks is important for a number of different reasons and the
+reasons why businesses carry out social media checks should relate to
+the challenges that they face around risk, such as: Security – risks can
+range from hiring someone linked to a Proscribed organization or illegal
+activities, to a candidate who could expose your company to bribery,
+corruption or fraud. Behavior – the risk from an individual’s negative
+behavior can have far-reaching consequences for your staff, your
+customers and your brand. For example, if they breach company policy,
+showcase undesirable characteristics or leak confidential information.
+Integrity – an adverse media story can damage a company’s reputation
+many years down the line, linking your brand with sexist or racist
+behavior for example. Social media checks are also a useful way to
+validate information shared by a candidate, helping you gauge more
+intangible qualities like trust.
+
+Platform used to find candidate profiles are:  LinkedIn Twitter Facebook
+Instagram Other associate accounts if found 
+
+Completed Green When the candidate does not have any misconduct in
+public, political rants, sexual abuse, police/court records etc  found
+in the verification . Example : Green social media check
+
+Completed Yellow When the candidate’s social media profiles are not
+available or private, due to which the verification is incomplete  then
+the check is graded as Unable To Verify (Yellow).
+
+Example: Yellow social media check
+
+===== CONTENT FROM MISC_PM.docx =====
+
+QC Process Manual for MISC checks Checks Includes: ID, CRT, WCK, CIBIL,
+Drug, Social Media, etc and CST checks
+
+Introduction:- Quality check is a process which upholds the quality of
+the report which is presented to the customer or client. Being in the
+team, the process here will be very simple and complicated at the same
+time, one has to pay attention to details and should not allow any sort
+of errors or mistakes in the reports.
+
+Before we get started, one should know 2 important things in the process
+
+Consent Letter: A consent letter is one of the must-have documents in
+the portal. As background verification (BGV) is a serious business and
+deals with the data of the candidate, we would need a signed consent
+letter for processing any sort of data provided by the candidate.
+Consent will be present in the QC view - left corner of the portal in
+line with candidate details. Make sure, whenever you QC a case or get a
+Customer Support/Success request, you see that the case has a consent
+letter present on the portal
+
+Consent format:
+
+Note: Undertaking are also acceptable. Few of the client approve
+undertaking letter.  For eg: Sai Life Science Limited
+(https://admin.in.springverify.com/companies/1202/candidates/204810)
+
+Package Text/ Order Summary: Package Text/Order Summary provides
+information about the checks included in the package that the client has
+opted for. Package Text/Order Summary shows the required checks which
+are to be added/presented in the report. Order Summary will be mentioned
+in the QC view - Left corner of the portal in line with candidate
+details While doing QC, make sure you are checking the checks according
+to what is mentioned in the Order summary
+
+Package text is mentioned in the top left corner above overview details
+:
+
+Points to remember:  In some checks, additional information about their
+expected behavior will be mentioned below the checks name Example: For
+Address check and Court check - It is mentioned that we have to run them
+on Candidate’s permanent address, hence we have to check if it is
+correctly processed as per the information
+
+Checklist SVIN QC - Checklist - Refer to the QC checklist whenever you
+are doing QC, keep this sheet pinned in one of the tabs on your browser 
+
+Comments Sheet SVIN Check Grading Templates - Refer to this sheet to
+cross-check the comments in the report 
+
+Additional point: Name change process update: Whenever there is a name
+change, we will request the candidate to provide one ID with the
+previous name and one with the new name along with the name change deed.
+If the candidate cannot provide these documents, we will seek client
+approval. To proceed with these types of scenario cases, we require
+either the complete set of ID documents along with the name change deed,
+or an approval email from the client to proceed with the updated name.
+The case of ‘Ishan’ vs. ‘Ishaan’ is not considered a name change but a
+spelling discrepancy in the documents. In such cases, the candidate must
+get the documents corrected. The name should match the ID proof and be
+provided accordingly by the company’s HR. In this scenario, we can take
+a written clarification from the candidate and seek client approval to
+proceed. Based on the client’s confirmation, we can process the case.
+However, for actual name changes for example like below scenarios, where
+the candidate has legally changed their name, we must collect one ID
+with the previous name, one with the new name, and the name change deed.
+If the candidate cannot provide these documents, we will request client
+approval before proceeding. Ex: - Shivam Vs Ankit Abdul Vs Rahul Renuka
+Singh Vs Renuka Tripati Shalini Devi Vs Shalini Thomas
+
+For the cases with name changes where we raise insufficiency for Name
+change deed, We mandatorily need name change deed as a proof. This is
+also called Gazette Notification/Certificate in some states. If it’s not
+available, client can provide an approval to consider it without the
+proof. Name variation scenarios: -
+
+Identity Check In this check, we check the candidate’s Identity bases on
+different - different ID proof. We check the below ID Proof of the
+candidate PAN Aadhaar Voter ID Driving License Passport How to do ID
+checks: In the Identity checks report, we will have the Identity card
+number, Candidate name, date of birth and candidate’s father’s name as
+per the Identity card proof, we have to check if the data mentioned in
+the report matches the with the attached document(which will be the
+identity card proof) and the ID card number, Father’s name and date of
+birth have to be as per the document. Candidate name will sometimes
+slightly vary, in such cases, we should check for name variation
+automated comments  mentioning the variation in the candidate’s name. 
+Automated comment for name variation will be mentioned in the Internal
+report 1st page after the verification Summary section 
+
+Steps: -Open the candidates profile in the SpringVerify portal
+
+-Read the popups which are present above the candidate name - This helps
+you to know in advance about the variations
+
+Go to the internal report and click on the check icon to land on the
+check page report
+
+Open the document from the document section or in split document will be
+opened side by side and check if the details are matching ID Number,
+Date of birth and father’s name should be exactly mentioned as per the
+If there is a variation in the candidate’s name - Automated comment for
+name variation will be mentioned in the Internal report 1st page after
+the verification Summary section Also check for verification type - it
+should be electronics only  Check for requested date and completed date
+and it should be in chronological order. Also check for correct document
+tagging. 
+
+If a candidate has changed his/her name, there should be an additional
+comment of the name as per the Gazette document
+
+Allowable variations - These can be accepted without comments or changes
+
+If the first name and second names are interchanged If there is an
+extra/less space between names or initials If Father’s name is not
+available - The data Provided column can be blank If PAN says that the
+candidate is Minor If the first and second names are combined  If
+everything is correctly matching without any error then we can pass the
+QC.
+
+Important Note: 
+
+For ID Checks Auto-Graded :If the ID Check is auto-graded by the system,
+and the ID document appears blurred or the details are not clearly
+visible, the team will not raise an insufficiency. In such cases, we can
+proceed with the given document.
+
+For the cases with name changes where we raise insufficiency for Name
+change deed, We mandatorily need name change deed as a proof. This is
+also called Gazette Notification/Certificate in some states. If it’s not
+available, client can provide an approval to consider it without the
+proof.
+
+For all ID checks that are being run manually, the team need to take a
+screenshot of the search conducted on the government portal and attach
+it in the report in PDF, JPEG, or GIF format.
+
+All passport checks run through the MRZ method; the details need to be
+added to a Word document, which should then be converted to a PDF. The
+same PDF document needs to be attached in the report
+
+Only international passports have to be done through the MRZ method.
+Indian passport should be run through the Indian passport portal.
+
+For DL and Indian Passport, Date of Birth should be verified. Please
+flag this if its not marked as verified.
+
+For the PAN (ID check), if the check is auto completed by SV or if the
+payload message is available in the data found, We can Pass the QC and
+not required to raise an error for clear documents. For Aadhar only
+Aadhar Number will be marked as verified, rest all info will be N/A. For
+PAN: PAN number and name will be marked as verified For DL, Indian
+passport , Voter ID: Search result will be attached and details will be
+graded as per that.  For eg:  Driving licence - ID number, name, DOB and
+sometimes father’s name will also be graded.  Indian Pasport - DOB will
+also be marked as verified  Voter ID - Only ID number and name will be
+verified  Errors:
+
+These errors  should be posted in sv-in-ops-qc-errors channel :- If any
+data mentioned is not as per the documents If the document is of some
+other candidate If the document is not cropped and aligned in a proper
+format If there are any sort of typographical errors If any details are
+not filled in (DOB/father’s name) If the mother’s name is mentioned
+instead of the father’s name If the Gazette document comments are
+missing If there is a document duplication If there are automated
+comments in the check 
+
+Automated comment example: Unable to Verify ID check: 
+
+Identity checks are marked Unable to Verify in two scenarios [i] When we
+are unable to validate the details mentioned in the ID document (Invalid
+Voter ID number) [ii] When no data is found on the API search
+
+Please find the below example case which is Unable to verify  Example
+case 1
+
+The check will be marked as Insuff closed when there are insufficient
+documents to run the ID check.
+
+The Identity check will be marked as Closed, only when there is a client
+request Discrepant ID check: Identity checks are marked Discrepant when
+there is a mismatch of the Candidate’s name in the API search
+
+Please find the below example case of Identity Verification Discrepancy 
+
+International Passport Check How to validate the International passport
+using Machine Readable Zone (MRZ) validation method?
+
+What is a Machine Readable Zone (MRZ)?
+
+MRZ code is a string of characters that appears on the bottom of the
+personal data page of a passport. It is a combination of letters,
+numbers, and symbols that are arranged in two lines.
+
+The MRZ consists of 2 lines × 44 characters. (Please refer the
+highlighted section on the passport)
+
+Understanding how to run the International passport using Machine
+Readable Zone (MRZ) validation method with an example.
+
+Please note that this is applicable only for passports and no other IDs.
+
+Capture Passport MRZ Data: MRZ1:
+P<KENNYAUNDI<<AMOS<NGISA<<<<<<<<<<<<<<<<<<<<
+
+P stands for Passport Kennyaundi- Last name Amos Ngisa - Given name
+
+MRZ2: AK10084683KEN9804108M320214835025281<<<<<<64
+
+AK1008468- Passport number 3- filler number KEN- Country code 980410=
+10th April 1998 which matches with DOB 8- filler number M- Male 3-
+filler number 320214- 14th Feb 2032- passport expiry date 835025281-
+filler number
+
+Decode MRZ Data:  MRZ1 usually contains information about the Surname,
+Given Names, Country, and Gender information.
+
+MRZ2 typically contains information about the passport number/ID number,
+country details, birth date, and expiry date information.
+
+Compare Extracted Data: Compare the extracted data with the
+corresponding fields on the passport. Ensure that the surname, given
+names, country details, gender, birth date, expiry date, and passport
+number match between the extracted data and the passport.
+
+Validate Passport:  If all the extracted data matches the corresponding
+fields on the passport, we can grade the check as verified.
+
+Note : We will add a disclaimer stating “This passport has been checked
+via MRZ validation” to indicate the method used for verification.
+
+Grading comments : 
+
+Format to be used under the comments sections when checks are completed.
+
+Here’s the extracted information from the response: - Surname: NYAUNDI -
+Given Names: AMOS NGISA - Gender: M - Country: KEN (Kenya) - Birth Date:
+1998-04-10 - Expiry Date: 2032-02-14 - ID Number: AK1008468 - Issuance
+Date: 2022-02-15
+
+And here are the MRZ1 and MRZ2 values: - MRZ1:
+“P<KENNYAUNDI<<AMOS<NGISA<<<<<<<<<<<<<<<<<<<<” - MRZ2:
+“AK10084683KEN9804108M320214835025281<<<<<<64”
+
+Comparing the extracted information with the MRZ data: - MRZ1 contains
+Surname, Given Names, Country, and Gender information, which matches the
+extracted data. - MRZ2 contains ID Number, Country, Birth Date, and
+Expiry Date information, which also matches the extracted data.
+
+Therefore, based on the JSON response, the passport data seems to be
+valid.
+
+Disclaimer: This passport has been checked via MRZ validation.
+
+Reference - 1.
+https://admin.in.springverify.com/candidate/details?id=134574&company_id=566
+2.
+https://admin.in.springverify.com/candidate/details?id=116607&company_id=2487
+3.
+https://admin.in.springverify.com/candidate/details?id=146727&company_id=3108
+
+COURT Check: We run court checks to search the criminal records of the
+candidate.
+
+The court check team will gather the data from the candidate and
+initiate the case to one of our vendors to get the records checked and
+close the check accordingly   For a check to be graded  as Verified
+ there 3 scenarios  1. If we find no online records found based on
+search criteria 2. If we find a partial match, the case type is
+minor(Civil) and we don’t have a valid data match. 3. If the candidate
+provides an authorized letter [PCC document] from the Police department
+stating that there are no court records found on the candidate 
+
+Note: For Medics International Lifesciences Ltd. we can proceed without
+an address match as per the document Documents considered for Address
+proof for CRT check are the Aadhaar card Driving License Voter ID
+Passport Vehicle Registration Certificate Passport Utility Bill (Should
+be dated within 3 months) Rental Agreement (Should not be expired) Lease
+Agreement (Should not be expired) Sales deed Ration Card Bank Statement
+(Should have an authorized seal & sign) PG Receipt(Should have an
+authorized seal & sign)
+
+These documents can be accepted if they are in the name of the
+Candidate’s blood relatives, we shall need a relationship-supporting
+document(proof) in such cases.
+
+Cross check if the name as per HR and name mentioned in the check is
+matching, if not, check there will be automated comment mentioned in 1st
+page of internal report after the verification summary.
+
+Things to check in Court check 1. The address in Data Provided should be
+matching with the Documents attached 2. Comments should be as per
+comments template 3. Check the Requested date and Completed date should
+be correctly mentioned 4. Document tagging should be correctly mentioned
+5. If there is a variation in name as per the Address document,
+automated comment will be present for that. 6. The document should be
+cropped and aligned in the correct way 7. The address should be
+mentioned in the correct format typographically 
+
+Points to be noted for Possible match cases: CNR Number should be
+updated in the comment section Confirmation PDF should be masked and
+flatten. The header for “Disclaimers and limitations of liability”  it
+will be present by End of the CRT check report. The disclaimer should be
+updated for possible matching cases, irrespective of the grading matrix
+(UTV/RED/Green).
+
+Petitioner and Respondent  A person who files a complaint against a
+person or an entity is known as a petitioner. A person on whom a
+complaint is filed on is know as Respondent
+
+Errors 1. If there is a mismatch in address mentioned in the document
+and in data provided 2. If there is a missing document 3. If the
+comments are not captured as per the template 4. If the attached
+document is expired (refer document format under Address check) 5. If
+Requested or completed dates are missing 6. If law letterhead is missing
+(as per package text)
+
+Law firm Letterhead
+
+We have certain clients for whom we have to add a law-firm letterhead
+annexure in the court check along with the normal procedure. Info to
+check for Letterhead will be mentioned in the Order summary/Package
+text. Make sure you have the letterhead annexure in the report and check
+if the report is of the candidate and no court records are found against
+the candidate’s data
+
+Letterhead annexure 
+
+Client List: Law Firm Letterhead Neev Systems Private Limited SBNA
+Software Solutions Private Limited Integrichain M Solution Speegile
+Furthersysytmes Midland Microfin Limited Further Systems Private Limited
+i2e Consulting Private Limited Resolvit Management and Technology
+Consulting India Private Limited Torrins Anthem Private Limited 40K
+Education Private Limited Aspire Fintech Private Limited Alleima India
+Private Limited
+
+SOP for Client AXA XL: Detailed descriptions of the case should not be
+included in the report or the comment section. The CNR Number should be
+updated in the comment section. The confirmation PDF should be masked
+and flattened. FIR details should be masked. The header for “Disclaimers
+and limitations of liability” in the comment section should be formatted
+in bold. The disclaimer should be updated for possible matching cases,
+irrespective of the grading matrix (UTV/RED/Green). Do not include the
+description of the section under which the person is booked. (Example:
+If a person is booked under IPC 420, the report may state that the
+person is booked under IPC 420, but the description of IPC 420 should
+not be included). The report format remains the same. Vendor details
+must be masked along with hyperlinks to the vendor portal and eCourt
+portal. The following are the sections where hyperlinks are included in
+the report: On top of the report under the archived version of the case
+Case History section History of Case Hearing FIR Details Final
+Orders/Judgments Main information sections Police Clearance Certificate 
+When we find particle matches of the candidate’s info, at times the
+candidate will come back stating that he/she has no criminal records. To
+support the claim, the candidate will provide a Police clearance
+certificate.
+
+Attached below is an example of Police clearance certificate
+
+Things to note: We will update the comments in Court check regarding the
+PCC, make sure PCC is updated in a fullform as Police Clearance
+Certificate and not in short form as PCC
+
+Check Statuses: Scenarios - If candidate is petitioner  What is Bail
+Application case? If a person believes they may be arrested for a crime
+they are accused of, they can apply for a bail order in advance to avoid
+being taken into custody. Bail application cases are register under
+CRPC438,439 which has been now changed to 482 and 483 of Bharatiya
+Nagarik Suraksha Sanhita, 2023 Scenario 1: Bail Application Case → 
+Condition 1: Complete Match
+
+If the candidate is petitioner and the name and address is completely
+matching with the petitioner record, we can mark the check as
+“Discrepant”
+
+✅ QC Grade: Discrepant
+
+Condition 2: Partial Match
+
+If the candidate is petitioner and the name and address is partially
+matching with the petitioner record, we can mark the check as “Unable to
+Verify”
+
+✅ QC Grade: UTV (Unable to Verify)
+
+Scenario 2: Not a Bail Application Case For non-bail application case
+check will be graded as “Verified”.
+
+✅ QC Grade: Verified
+
+-   When we find a partial match, the case type is major(Criminal) and
+    we don’t have a valid data match the check will go as Unable To
+    Verify  
+
+-   If a complete match is found between the data and the source
+    document, and the case type is classified as a major case (such as a
+    Criminal or Civil case) that falls under the Red Category, the check
+    must be graded as Discrepant.
+
+-   The check will be marked as Insuff closed when there are
+    insufficient documents to run the Court check.
+
+-   The Court check will be marked as Closed, only when there is a
+    client request
+
+World Check(WCK)
+
+World Check is done to cross check records (terrorist attack,
+laundering, corruption or any other records internationally) of the
+candidate on a global level.  Check package text for the case before
+starting WCK QC. There are a few clients that request a database list to
+be attached along with the case report. World: : Attach the database
+list. World Check (Attach the Database) Client: Bangalore Aircraft
+Industries Private Limited World Check - List of Keywords
+https://admin.in.springverify.com/candidate/document?uuid=6ab8edea-3139-433d-b62b-19d9695651df
+
+Completed Green - World Check A World Check report, when marked as
+Verified, has the header “Case Report”. World Check: Example Case The
+following details are mentioned under DP: Name  Father’s Name Date of
+Birth Address The following is to be mentioned under “Details”:
+Verification Type - Electronic Source - LSEG Requested Date Completed
+Date The following document is to be attached under “Documents”:
+Verified Document - This document has the LSEG report for World Check.
+The following details should be checked in the report -  Name - 
+Candidate name should be an exact match as per DP in the internal
+report. A slight variation in name is acceptable as long as we are sure
+that it represents the same candidate. Date of Birth - should match the
+date of birth in DP (hence, PAN). Vendor Details - should be MASKED in
+white. Hence, vendor details shouldn’t be visible at all. Vendor details
+are mentioned below Case ID and at the footer of each page. Verified
+Document - If in case, candidate ID is not added under Identity Check,
+then, ID proof is attached under World Check. Any ID is sufficient to
+run World Check
+
+Insuff Closed - World Check World Check will go as Insuff - Closed when
+we have insufficient documents to run the check and when the candidate
+or client do not respond after multiple follow ups.
+
+Closed - World Check World Check will go as Closed when there is a
+client request for the same.
+
+UTV - World Check World Check will go as UTV when we are unable to
+validate the details mentioned.
+
+Discrepant - World Check A World Check report, when marked as
+Discrepant, has the header “World Check Match Details Report”. World
+Check will go as Discrepant when there is a finding in the LSEG report
+where the name and DOB is an exact match.
+
+Verified WCK example
+
+Cibil Check/Credit Check:
+
+-> Process update for CIBIL Check: Name, Father’s Name, DOB, or Gender
+Variations:- If there are variations in any of these fields, the check
+would be graded as Verified. No Credit History / Score = -1, the check
+would be grading as Verified. Low Credit Score (≤300): if the credit
+score is 300 or below, the check would be graded as Discrepant.
+
+Cibil Check is done to know the Cibil Score (Credit Score) of the
+candidate.  CIBIL Score is a three-digit numeric summary of the
+candidate’s credit history. The score is derived using the credit
+history found in the CIBIL Report (also known as CIR i.e Credit
+Information Report). A CIR is an individual’s credit payment history
+across loan types and credit institutions over a period of time. Cibil
+Check cannot be run without PAN number as all our financial records are
+linked to PAN number.
+
+Completed Verified  - Cibil Check Example Case: Green Cibil Check The
+following details are mentioned under DP: Name  PAN Number Date of Birth
+The following is to be mentioned under “Details”: CIBIL TRANSUNION SCORE
+Version 2.0 - The score in the internal report should be an exact match
+of the Transunion Report Requested Date Completed Date Comments, if any
+The following document is to be attached under “Documents”: Verified
+Document - This document has the Transunion Cibil report for Cibil
+Check. The following details should be checked in the report -  Name - 
+Candidate name under consumer information should be an exact match to DP
+in the internal report.  A slight variation in name is acceptable as
+long as we are sure that it represents the same candidate. The Identity
+Check section (Data Found) can be checked for the same. Comment will be
+mentioned for the variation, even if the difference is minor(e.g., the
+addition of a middle name, initial, or slight spelling difference). 
+
+Few name variation Example: 1. Case link . As per DP (wrt PAN)  name is
+“Lakshmi Chikkerur” As per CIBIL report name is “Lakshmi K Chikkerur”
+that will be updated in DF and based on this variation comment will be
+captured for this.
+
+2.  Case Link . As per DP (wrt PAN)  name is “Pradeep Latha Vijayendran”
+    As per CIBIL report name is “Pradeep L V V” that will be updated in
+    DF and based on this variation comment will be captured for this.
+
+Date of Birth - should match the date of birth in DP (hence, PAN).
+Vendor Details - should be MASKED in white. Hence, vendor details
+shouldn’t be visible at all. Only PAN is accepted for Cibil Check and it
+is mandatory to be attached in the Cibil check. . For DP and DF 
+variation captured in terms of name and DOB, comment will be captured. 
+
+Cibil Scores: Below  ≤300 - Low Cibil Score - the check is to go as
+discrepant. Above 300 - Acceptable Cibil Score - check will be graded as
+Verified  If the candidate is not in CIBIL Database or if the loan
+history is older than 36 months, then the Cibil Score will be -1. . 
+comment as per the SVIN Check Grading Templates will be given for the
+same. Example Case: Cibil Score -1
+
+Insuff Closed - Cibil Check Cibil Check will go as Insuff - Closed when
+we have insufficient documents to run the check and when the candidate
+or client do not respond after multiple follow ups.
+
+Closed - Cibil Check Cibil Check will go as Closed when there is a
+client request for the same. Example Case: Closed Cibil Check
+
+UTV - Cibil Check Cibil Check will go as UTV when we are unable to
+validate the details mentioned.
+
+Discrepant - Cibil Check Cibil Check will go as Discrepant when:  Low
+Credit Score (≤300): if the credit score is 300 or below, the check
+would be graded as Discrepant. Mismatch of the candidate’s PAN number
+from TransUnion CIBIL report, check would be graded as Discrepant
+
+Drug Check: 
+
+A pre-employment drug testing program for background investigation helps
+protect employers from hiring drug users, before they can have any
+impact on the workplace. It is done to find if the candidate has a habit
+of regular consumption of drugs. The result should be found negative for
+verified check otherwise for positive case it will go as discrepant. Why
+are drug tests important at the workplace ? Drug users are more prone to
+accidents To improve worker safety and health To avoid workplace hazards
+Prevent employee theft and absenteeism Drugs hamper employee
+productivity Drug users are a big threat to organizations dealing with
+sensitive data Drugs Tested in the 5-Panel Test Drug panel-5 uses urine
+as the sample to test for the presence of commonly abused drugs
+substances: marijuana, cocaine, opiates, amphetamines, and Phencyclidine
+(PCP). Commercial names for opiates include Codeine, Morphine, and
+Heroin (6 AM). Methamphetamine and MDMA are common amphetamines, and
+street names include Meth, Molly, Extract, and M. PCP is often referred
+to as angel dust or rocket fuel. Cut off Levels (Urine)
+
+Completed Green Negative results indicate absence of drug in urine or
+concentrations below the assay cutoff .   Example: Completed Green Drug
+Check
+
+Completed Discrepant case Positive results indicate presence of drugs in
+urine or concentrations above the assay cutoff. Example : Completed Red
+Drug Check 
+
+Custom Check: 
+
+Resume validation Checks: A resume verification process involves
+fact-checking the information on a CV, it is a procedure through which
+the features of the information provided by the applicant in both the
+Resume and Profile Background Form are corroborated and the legitimacy
+of the information is authenticated and determined. 
+
+Importance of a CV Validation CV Validation can help prevent bad
+recruits by validating the candidate’s work experience and education
+before making a hiring decision. Many companies provide a resume to
+offer compensation packages, promotions and job responsibilities.
+However, many job applicants and employees provide fake details,
+education and employment history to appear more qualified to grab
+successful jobs. Offering benefits to an unqualified individual based on
+exaggerated CVs could waste time, money and efforts on training besides
+falsely affecting a company’s productivity and increased turnover rate.
+CV frauds such as the exaggeration of skills, false experience are some
+reasons that involve CV verification. CV validation is also important to
+detect resume frauds such as claiming to have been employed by companies
+they never worked for. The major areas where CV frauds were detected
+were in the areas of employment verification along with address
+verification, reference screening, and education. Resume Validation -
+Green When the details of the candidate matches with the verification
+done, the check is graded as verifed.
+
+Social Media Checks A Social Media Background Check is a thorough
+examination of a person’s social media history, looking for negative
+behaviors that may be indicated by posts, likes or comments. This may
+help give employers an indication of the personality or character of
+potential employees. These negative behaviors include bullying, racism,
+extremist religious or political views, excessive foul language and
+more. In addition to analyzing a person’s social media accounts, a
+Social Media Background Check also looks into associations or groups to
+which they may be affiliated. Someone may post infrequently and have a
+relatively clean posting history, but this may only tell part of a
+story. If they are members of a group or frequently liked pages
+associated with problematic content or ideas, such as supremacist or
+fundamentalist groups, this may indicate a number of factors that could
+influence a job offer.  
+
+Why are social media background checks important? Conducting social
+media checks is important for a number of different reasons and the
+reasons why businesses carry out social media checks should relate to
+the challenges that they face around risk, such as: Security – risks can
+range from hiring someone linked to a Proscribed organization or illegal
+activities, to a candidate who could expose your company to bribery,
+corruption or fraud. Behavior – the risk from an individual’s negative
+behavior can have far-reaching consequences for your staff, your
+customers and your brand. For example, if they breach company policy,
+showcase undesirable characteristics or leak confidential information.
+Integrity – an adverse media story can damage a company’s reputation
+many years down the line, linking your brand with sexist or racist
+behavior for example. Social media checks are also a useful way to
+validate information shared by a candidate, helping you gauge more
+intangible qualities like trust.
+
+Platform used to find candidate profiles are:  LinkedIn Twitter Facebook
+Instagram Other associate accounts if found 
+
+Completed Green When the candidate does not have any misconduct in
+public, political rants, sexual abuse, police/court records etc  found
+in the verification . Example : Green social media check
+
+Completed Yellow When the candidate’s social media profiles are not
+available or private, due to which the verification is incomplete  then
+the check is graded as Unable To Verify (Yellow).
+
+Example: Yellow social media check
+
+===== EXTRACTED TEXT FROM SCREENSHOTS =====
+
+Error: Import ‘fastapi’ could not be resolved. Pylance
+(reportMissingImports). Error: Import ‘slack_sdk’ could not be resolved.
+Pylance (reportMissingImports). These errors indicate that required
+Python packages are not installed in the active Python environment or
+the correct interpreter is not selected.
