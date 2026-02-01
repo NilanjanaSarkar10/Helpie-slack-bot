@@ -6,7 +6,7 @@ A fully-featured Slack bot powered by Llama AI (via Ollama) with a custom knowle
 
 - **AI-Powered Responses**: Uses Llama AI through Ollama for intelligent responses
 - **Custom Knowledge Base**: Load PDFs, DOCX, and TXT files for context-aware answers
-- **Semantic Search**: ChromaDB with sentence transformers for finding relevant information
+- **Semantic Search**: Uses sentence transformers for finding relevant information
 - **Conversation History**: Remembers context from recent messages
 - **Channel & DM Support**: Works in channels (when mentioned) and direct messages
 - **Source Citations**: Shows which documents were used to answer questions
@@ -310,7 +310,6 @@ knowledge_base/chroma_db/
 
 - [Slack API Documentation](https://api.slack.com/)
 - [Ollama Documentation](https://github.com/ollama/ollama)
-- [ChromaDB Documentation](https://docs.trychroma.com/)
 - [Slack Bolt Python](https://slack.dev/bolt-python/)
 
 ## 🤝 Support
