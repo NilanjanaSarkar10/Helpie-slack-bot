@@ -38,7 +38,6 @@ def check_imports():
         ('slack_bolt', 'Slack Bolt'),
         ('dotenv', 'python-dotenv'),
         ('ollama', 'Ollama'),
-        ('chromadb', 'ChromaDB'),
         ('sentence_transformers', 'Sentence Transformers'),
         ('PyPDF2', 'PyPDF2'),
         ('docx', 'python-docx'),

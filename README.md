@@ -1,12 +1,13 @@
 # Slack AI Bot with Llama & Custom Knowledge Base
 
-A fully-featured Slack bot powered by Llama AI (via Ollama) with a custom knowledge base using ChromaDB for semantic search.
+A fully-featured Slack bot powered by Llama AI (via Ollama) with a custom knowledge base using SentenceTransformer embeddings and semantic search.
 
 ## 🌟 Features
 
 - **AI-Powered Responses**: Uses Llama AI through Ollama for intelligent responses
-- **Custom Knowledge Base**: Load PDFs, DOCX, and TXT files for context-aware answers
-- **Semantic Search**: Uses sentence transformers for finding relevant information
+- **Custom Knowledge Base**: Load PDFs, DOCX, and TXT files with automatic category detection
+- **Semantic Search**: Uses SentenceTransformer embeddings (all-MiniLM-L6-v2) with sklearn cosine similarity
+- **Category-Aware Routing**: Intelligently routes queries to relevant document categories (employment, education, address, compliance, criminal)
 - **Conversation History**: Remembers context from recent messages
 - **Channel & DM Support**: Works in channels (when mentioned) and direct messages
 - **Source Citations**: Shows which documents were used to answer questions
