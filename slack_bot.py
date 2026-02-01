@@ -47,18 +47,20 @@ def handle_mention(event, say, client):
         text = event['text']
         user_id = event['user']
         channel_id = event['channel']
+        thread_ts = event.get('thread_ts', event['ts'])  # Get thread timestamp
         
         # Remove bot mention from text
         bot_user_id = client.auth_test()['user_id']
         text = re.sub(f'<@{bot_user_id}>', '', text).strip()
         
         if not text:
-            say("Hi! How can I help you today?")
+            say(text="Hi! How can I help you today?", thread_ts=thread_ts)
             return
         
-        # Show typing indicator
+        # Show typing indicator in the thread
         client.chat_postMessage(
             channel=channel_id,
+            thread_ts=thread_ts,
             text=f"<@{user_id}> Let me think about that... 🤔"
         )
         
@@ -82,12 +84,12 @@ def handle_mention(event, say, client):
             if sources:
                 response += f"\n\n_📚 Sources: {', '.join(sources)}_"
         
-        # Send response
-        say(f"<@{user_id}> {response}")
+        # Send response in the thread
+        say(text=f"<@{user_id}> {response}", thread_ts=thread_ts)
         
     except Exception as e:
         logger.error(f"Error handling mention: {e}")
-        say(f"Sorry, I encountered an error: {str(e)}")
+        say(text=f"Sorry, I encountered an error: {str(e)}", thread_ts=event.get('thread_ts', event['ts']))
 
 
 # Event listener for direct messages
