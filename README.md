@@ -310,7 +310,6 @@ knowledge_base/chroma_db/
 
 - [Slack API Documentation](https://api.slack.com/)
 - [Ollama Documentation](https://github.com/ollama/ollama)
-- [ChromaDB Documentation](https://docs.trychroma.com/)
 - [Slack Bolt Python](https://slack.dev/bolt-python/)
 
 ## 🤝 Support
